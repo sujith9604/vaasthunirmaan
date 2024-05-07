@@ -40,4 +40,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 ## Acknowledgements
 
-- Special thanks to [NetBeans]{https://netbeans.apache.org/front/main/index.html} for providing a powerful IDE for Java development.
+- Special thanks to [NetBeans](https://netbeans.apache.org/front/main/index.html) for providing a powerful IDE for Java development.
